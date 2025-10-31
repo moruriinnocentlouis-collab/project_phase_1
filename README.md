@@ -94,3 +94,5 @@ Scatter Plot: Risk Score vs. Total Incidents
 Shows the overall distribution and relationship between volume and risk.
 
 Implement Risk Thresholds for proactive, automated monitoring and mandatory review when models cross the alert line.
+
+TABLEAU LINK: https://public.tableau.com/app/profile/innocent.moruri/viz/tableauprojectphase1/Dashboard1?publish=yes
