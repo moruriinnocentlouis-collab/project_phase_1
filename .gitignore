@@ -43,26 +43,3 @@ htmlcov/
 .idea/ # Common JetBrains IDE (PyCharm, IntelliJ) folder
 .vscode/ # Common VS Code folder
 
-# -------------------------------------------------------------------
-# JUPYTER NOTEBOOK FILES
-# -------------------------------------------------------------------
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-.jupyter_workspace
-
-# -------------------------------------------------------------------
-# CUSTOM FILES (Based on your attachments)
-# -------------------------------------------------------------------
-
-# NOTE: The following files you provided are typically central to the
-# project and are therefore *NOT* ignored, so they will be tracked:
-# - project_phase_1.ipynb
-# - Aviation_Data.csv
-
-# If your CSV file is very large (over 100MB) and you want to keep it
-# out of the repository, you should uncomment the line below:
-# Aviation_Data.csv
-
-# For very large data files that should be tracked, consider using
-# Git Large File Storage (Git LFS) instead of ignoring them.
